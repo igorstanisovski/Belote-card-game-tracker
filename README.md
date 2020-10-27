@@ -1,16 +1,8 @@
-# belotetracker
+# Belote card game tracker application
 
-Belote card game tracker application
+Flutter application using Firebase for Belote card game where users can track their games and their statistics.
+It is writen in my native language but I can easily translate for someone who want to use it.
 
-## Getting Started
+### How to use
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Demo](https://makeagif.com/i/0yIuwK)](https://youtu.be/75K9DDi29XY)
