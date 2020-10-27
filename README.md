@@ -5,4 +5,4 @@ It is writen in my native language but I can easily translate for someone who wa
 
 ### How to use
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/75K9DDi29XY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/75K9DDi29XY/maxresdefault.jpg" width="50%">](https://youtu.be/75K9DDi29XY)
